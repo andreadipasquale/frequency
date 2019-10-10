@@ -10,15 +10,15 @@ CUSTOMIZE
 
 The program allow you to customize the setting of two most important parameters:
 
-    - word length (default value 50)
-    - number of most frequently used words (default value 20)
+  - word length (default value 50)
+  - number of most frequently used words (default value 20)
 
 If you want to customize these settings, follow these guidelines:
 
 1) open the file src/globals.h;
-2) To customize word length:
+2) to customize word length:
    change the value of MAX WORD SIZE macro;
-3) To customize number of most frequently used words:
+3) to customize number of most frequently used words:
    change the value of MINHEAP CAPACITY macro;
 4) compile and execute.
 
@@ -27,35 +27,46 @@ COMPILE AND TEST
 
 1) Compile and run automated tests:
 
+    ```
     $ make
+    ```
 
 2) Compile in debug mode and run automated tests:
 
+    ```
     $ make debug
+    ```
 
 EXECUTE
 =======
 
 1) Execute and show help page:
 
+    ```
     $ ./main -h
+    ```
 
 2) Execute and process a file:
 
+    ```
     $ ./main -f file
+    ```
 
 EXAMPLE
 =======
 
 1) Help page:
 
+    ```
     $ ./main -h
     Usage for ./main:
       -f filename    file to process
       -h             print this help
+    ```
 
 2) Process mobydick.txt file:
 
+    ```
     $ ./main -f files/mobydick.txt
       4284 the
       2192 and
@@ -77,3 +88,4 @@ EXAMPLE
       542 all
       541 as
       458 at
+    ```
