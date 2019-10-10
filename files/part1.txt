@@ -1,0 +1,514 @@
+**The Project Gutenberg Etext of Moby Dick, by Herman Melville**
+#3 in our series by Herman Melville
+
+This Project Gutenberg version of Moby Dick is based on a combination
+of the etext from the ERIS project at Virginia Tech and another from
+Project Gutenberg's archives, as compared to a public-domain hard copy.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Title:  Moby Dick; or The Whale
+
+Author:  Herman Melville
+
+June, 2001  [Etext #2701]
+
+**The Project Gutenberg Etext of Moby Dick, by Herman Melville**
+******This file should be named moby10b.txt or moby10b.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, moby11b.txt
+VERSIONS based on separate sources get new LETTER, moby10c.txt
+
+This etext was prepared by Daniel Lazarus and Jonesey
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Daniel Lazarus and Jonesey
+
+
+
+
+
+Notes on this etext of Moby Dick:
+
+This text is a combination of etexts, one from the now-defunct ERIS
+project at Virginia Tech and one from Project Gutenberg's archives.
+The proofreaders of this version are indebted to The University of
+Adelaide Library for preserving the Virginia Tech version.  The
+resulting etext was compared with a public domain hard copy version of
+the text.
+
+In chapters 24, 89, and 90, we substituted a capital L for the symbol
+for the British pound, a unit of currency.
+
+
+
+
+
+MOBY DICK; OR THE WHALE 
+
+by Herman Melville
+
+
+
+
+ETYMOLOGY.
+
+(Supplied by a Late Consumptive Usher to a Grammar School)
+
+The pale Usher--threadbare in coat, heart, body, and brain; I see him
+now.  He was ever dusting his old lexicons and grammars, with a queer
+handkerchief, mockingly embellished with all the gay flags of all the
+known nations of the world.  He loved to dust his old grammars; it
+somehow mildly reminded him of his mortality.
+
+"While you take in hand to school others, and to teach them by what
+name a whale-fish is to be called in our tongue leaving out, through
+ignorance, the letter H, which almost alone maketh the signification
+of the word, you deliver that which is not true." --HACKLUYT
+
+"WHALE. ... Sw. and Dan. HVAL.  This animal is named from roundness
+or rolling; for in Dan. HVALT is arched or vaulted." --WEBSTER'S
+DICTIONARY
+
+"WHALE. ... It is more immediately from the Dut. and Ger. WALLEN;
+A.S. WALW-IAN, to roll, to wallow." --RICHARDSON'S DICTIONARY
+
+KETOS,               GREEK.
+CETUS,               LATIN.
+WHOEL,               ANGLO-SAXON.
+HVALT,               DANISH.
+WAL,                 DUTCH.
+HWAL,                SWEDISH.
+WHALE,               ICELANDIC.
+WHALE,               ENGLISH.
+BALEINE,             FRENCH.
+BALLENA,             SPANISH.
+PEKEE-NUEE-NUEE,     FEGEE.
+PEKEE-NUEE-NUEE,     ERROMANGOAN.
+
+
+
+
+EXTRACTS (Supplied by a Sub-Sub-Librarian).
+
+It will be seen that this mere painstaking burrower and grub-worm of
+a poor devil of a Sub-Sub appears to have gone through the long
+Vaticans and street-stalls of the earth, picking up whatever random
+allusions to whales he could anyways find in any book whatsoever,
+sacred or profane.  Therefore you must not, in every case at least,
+take the higgledy-piggledy whale statements, however authentic, in
+these extracts, for veritable gospel cetology.  Far from it.  As
+touching the ancient authors generally, as well as the poets here
+appearing, these extracts are solely valuable or entertaining, as
+affording a glancing bird's eye view of what has been promiscuously
+said, thought, fancied, and sung of Leviathan, by many nations and
+generations, including our own.
+
+So fare thee well, poor devil of a Sub-Sub, whose commentator I am.
+Thou belongest to that hopeless, sallow tribe which no wine of this
+world will ever warm; and for whom even Pale Sherry would be too
+rosy-strong; but with whom one sometimes loves to sit, and feel
+poor-devilish, too; and grow convivial upon tears; and say to them
+bluntly, with full eyes and empty glasses, and in not altogether
+unpleasant sadness--Give it up, Sub-Subs!  For by how much the more
+pains ye take to please the world, by so much the more shall ye for
+ever go thankless!  Would that I could clear out Hampton Court and
+the Tuileries for ye!  But gulp down your tears and hie aloft to the
+royal-mast with your hearts; for your friends who have gone before
+are clearing out the seven-storied heavens, and making refugees of
+long-pampered Gabriel, Michael, and Raphael, against your coming.
+Here ye strike but splintered hearts together--there, ye shall strike
+unsplinterable glasses!
+
+
+EXTRACTS.
+
+"And God created great whales." --GENESIS.
+
+"Leviathan maketh a path to shine after him; One would think the deep
+to be hoary." --JOB.
+
+"Now the Lord had prepared a great fish to swallow up Jonah."
+--JONAH.
+
+"There go the ships; there is that Leviathan whom thou hast made to
+play therein." --PSALMS.
+
+"In that day, the Lord with his sore, and great, and strong sword,
+shall punish Leviathan the piercing serpent, even Leviathan that
+crooked serpent; and he shall slay the dragon that is in the sea."
+--ISAIAH
+
+"And what thing soever besides cometh within the chaos of this
+monster's mouth, be it beast, boat, or stone, down it goes all
+incontinently that foul great swallow of his, and perisheth in the
+bottomless gulf of his paunch." --HOLLAND'S PLUTARCH'S MORALS.
+
+"The Indian Sea breedeth the most and the biggest fishes that are:
+among which the Whales and Whirlpooles called Balaene, take up as
+much in length as four acres or arpens of land." --HOLLAND'S PLINY.
+
+"Scarcely had we proceeded two days on the sea, when about sunrise a
+great many Whales and other monsters of the sea, appeared.  Among the
+former, one was of a most monstrous size. ...  This came towards us,
+open-mouthed, raising the waves on all sides, and beating the sea
+before him into a foam." --TOOKE'S LUCIAN.  "THE TRUE HISTORY."
+
+"He visited this country also with a view of catching horse-whales,
+which had bones of very great value for their teeth, of which he
+brought some to the king. ...  The best whales were catched in his
+own country, of which some were forty-eight, some fifty yards long.
+He said that he was one of six who had killed sixty in two days."
+--OTHER OR OCTHER'S VERBAL NARRATIVE TAKEN DOWN FROM HIS MOUTH BY
+KING ALFRED, A.D. 890.
+
+"And whereas all the other things, whether beast or vessel, that
+enter into the dreadful gulf of this monster's (whale's) mouth, are
+immediately lost and swallowed up, the sea-gudgeon retires into it in
+great security, and there sleeps." --MONTAIGNE.  --APOLOGY FOR
+RAIMOND SEBOND.
+
+"Let us fly, let us fly!  Old Nick take me if is not Leviathan
+described by the noble prophet Moses in the life of patient Job."
+--RABELAIS.
+
+"This whale's liver was two cartloads." --STOWE'S ANNALS.
+
+"The great Leviathan that maketh the seas to seethe like boiling
+pan." --LORD BACON'S VERSION OF THE PSALMS.
+
+"Touching that monstrous bulk of the whale or ork we have received
+nothing certain.  They grow exceeding fat, insomuch that an
+incredible quantity of oil will be extracted out of one whale."
+--IBID.  "HISTORY OF LIFE AND DEATH."
+
+"The sovereignest thing on earth is parmacetti for an inward bruise."
+--KING HENRY.
+
+"Very like a whale." --HAMLET.
+
+"Which to secure, no skill of leach's art
+Mote him availle, but to returne againe
+To his wound's worker, that with lowly dart,
+Dinting his breast, had bred his restless paine,
+Like as the wounded whale to shore flies thro' the maine."
+--THE FAERIE QUEEN.
+
+"Immense as whales, the motion of whose vast bodies can in a peaceful
+calm trouble the ocean til it boil." --SIR WILLIAM DAVENANT.  PREFACE
+TO GONDIBERT.
+
+"What spermacetti is, men might justly doubt, since the learned
+Hosmannus in his work of thirty years, saith plainly, Nescio quid
+sit." --SIR T. BROWNE.  OF SPERMA CETI AND THE SPERMA CETI WHALE.
+VIDE HIS V. E.
+
+"Like Spencer's Talus with his modern flail
+He threatens ruin with his ponderous tail.
+...
+Their fixed jav'lins in his side he wears,
+And on his back a grove of pikes appears." --WALLER'S BATTLE OF THE
+SUMMER ISLANDS.
+
+"By art is created that great Leviathan, called a Commonwealth or
+State--(in Latin, Civitas) which is but an artificial man." --OPENING
+SENTENCE OF HOBBES'S LEVIATHAN.
+
+"Silly Mansoul swallowed it without chewing, as if it had been a
+sprat in the mouth of a whale." --PILGRIM'S PROGRESS.
+
+"That sea beast
+Leviathan, which God of all his works
+Created hugest that swim the ocean stream." --PARADISE LOST.
+
+---"There Leviathan,
+Hugest of living creatures, in the deep
+Stretched like a promontory sleeps or swims,
+And seems a moving land; and at his gills
+Draws in, and at his breath spouts out a sea." --IBID.
+
+"The mighty whales which swim in a sea of water, and have a sea of
+oil swimming in them." --FULLLER'S PROFANE AND HOLY STATE.
+
+"So close behind some promontory lie
+The huge Leviathan to attend their prey,
+And give no chance, but swallow in the fry,
+Which through their gaping jaws mistake the way."
+--DRYDEN'S ANNUS MIRABILIS.
+
+"While the whale is floating at the stern of the ship, they cut off
+his head, and tow it with a boat as near the shore as it will come;
+but it will be aground in twelve or thirteen feet water." --THOMAS
+EDGE'S TEN VOYAGES TO SPITZBERGEN, IN PURCHAS.
+
+"In their way they saw many whales sporting in the ocean, and in
+wantonness fuzzing up the water through their pipes and vents, which
+nature has placed on their shoulders." --SIR T. HERBERT'S VOYAGES
+INTO ASIA AND AFRICA.  HARRIS COLL.
+
+"Here they saw such huge troops of whales, that they were forced to
